@@ -11,9 +11,10 @@ public class Main {
 	    return new String(arrayOfByte3);
 	  }
 
-	
-	public static void main(String[] args) {
-        System.out.println(decode("Here you put the encrypted string"));
+	public static void main(String[] args) 
+	{
+	        System.out.println(decode("Here you put the encrypted string"));
+	}
     }
 	
 }
